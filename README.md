@@ -43,4 +43,5 @@ Members (3 members have dropped out. Only notified as of 16 September.)
 - Completed Filter by Supermarkets Feature: [Link](https://github.com/cosc2299-sept-2023/team-project-group-p03-01/issues/1)
 
 ### Jonathan Theofilas (s3942976) - 20%
-- Assisted with writing user stories as required by PO for all main features.
+- Assisted with user stories
+
