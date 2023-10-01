@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS items;
+CREATE TABLE items(
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(255) not null,
+    price DOUBLE NOT NULL,
+    supermarket VARCHAR(255) NOT NULL
+);

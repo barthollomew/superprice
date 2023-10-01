@@ -1,0 +1,28 @@
+{
+  "individualResults": [
+    {
+      "schemaVersion": null,
+      "schemaName": "",
+      "migrations": [],
+      "flywayVersion": "9.22.1",
+      "database": "TEST",
+      "allSchemasEmpty": true,
+      "timestamp": "2023-09-17T12:05:48.551650",
+      "operation": "info",
+      "exception": null,
+      "licenseFailed": false
+    },
+    {
+      "schemaVersion": null,
+      "schemaName": "",
+      "migrations": [],
+      "flywayVersion": "9.22.1",
+      "database": "SUPERPRICE_DB",
+      "allSchemasEmpty": true,
+      "timestamp": "2023-09-17T12:06:46.720095",
+      "operation": "info",
+      "exception": null,
+      "licenseFailed": false
+    }
+  ]
+}
