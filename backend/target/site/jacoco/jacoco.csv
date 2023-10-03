@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+superprice,com.superprice.repositories,SupermarketItemRepositoryImpl,488,0,46,0,112,0,31,0,8,0
+superprice,com.superprice.controllers,SupermarketItemController,62,3,16,0,9,1,10,1,2,1
+superprice,com.superprice,CorsConfig.new WebMvcConfigurer() {...},0,46,0,0,0,7,0,2,0,2
+superprice,com.superprice,SuperpriceApplication,5,3,0,0,2,1,1,1,1,1
+superprice,com.superprice,CorsConfig,0,8,0,0,0,2,0,2,0,2
+superprice,com.superprice.models,SupermarketItem,0,15,0,0,0,1,0,1,0,1
+superprice,com.superprice.services,SupermarketItemServiceImpl,4,3,0,0,1,1,1,1,1,1

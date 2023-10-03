@@ -1,9 +1,9 @@
 com/superprice/repositories/SupermarketItemRepository.class
 com/superprice/controllers/SupermarketItemController.class
+com/superprice/repositories/SupermarketItemRepositoryImpl.class
 com/superprice/services/SupermarketItemServiceImpl.class
 com/superprice/CorsConfig.class
 com/superprice/SuperpriceApplication.class
-com/superprice/services/SupermarketItemService.class
-com/superprice/repositories/SupermarketItemRepositoryImpl.class
 com/superprice/CorsConfig$1.class
 com/superprice/models/SupermarketItem.class
+com/superprice/services/SupermarketItemService.class
