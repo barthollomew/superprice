@@ -1,0 +1,33 @@
+/* itemsTable.css */
+
+/* Modern table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table th, table td {
+    padding: 15px;
+    border: 1px solid #e0e0e0;
+    text-align: left;
+}
+
+table th {
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+table tr:hover {
+    background-color: #eef6fd;
+}
+
+/* Ensure good spacing for items */
+table td {
+    padding: 20px 15px;
+    vertical-align: middle;
+}
