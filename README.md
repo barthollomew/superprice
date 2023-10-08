@@ -15,7 +15,7 @@ Members (3 members have dropped out. Only notified as of 16 September.)
   
 
 ## Contribution Statement
-### Nathan Nguyen (s3948938) - 80%
+### Nathan Nguyen (s3948938) - 70%
 - Write user stories as required by PO for all main features.
 - Prepare the product backlog, including estimation and prioritization based on meetings with the client/product owner.
 - Write test cases and Definition of Done (DOD) for each Product Backlog Item (PBI).
@@ -42,6 +42,12 @@ Members (3 members have dropped out. Only notified as of 16 September.)
 - Completed Search by Product Name Feature: [Link](https://github.com/cosc2299-sept-2023/team-project-group-p03-01/issues/2)
 - Completed Filter by Supermarkets Feature: [Link](https://github.com/cosc2299-sept-2023/team-project-group-p03-01/issues/1)
 
-### Jonathan Theofilas (s3942976) - 20%
+### Jonathan Theofilas (s3942976) - 30%
 - Assisted with user stories
+- Assiste with features to develop for Project
+- Completed Project Report
+- Completed Docker file for frontend of project
+- Completed Docker file for backend of project
+- Completed docker-compose.yml file
+- Completed css styling for website
 
