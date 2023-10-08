@@ -1,3 +1,5 @@
+import './footer.css';
+
 function Footer() {
     return (
         <div className="text-center py-4 mt-8 border-t border-blue-200 bg-blue-50">

@@ -1,6 +1,8 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
+
+
 export default function Items({ initialItems }) {
   const [selectedSupermarket, setSelectedSupermarket] = useState("");
   const [filteredItems, setFilteredItems] = useState(initialItems || []);

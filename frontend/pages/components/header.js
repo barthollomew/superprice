@@ -1,3 +1,5 @@
+import './header.css';
+
 function Header() {
     return (
         <div className="text-center my-8 bg-blue-50 p-4 rounded-md shadow-lg">
