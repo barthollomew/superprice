@@ -1,4 +1,4 @@
-# SuperPrice Readme
+# SuperPrice
 
 An application that helps users find groceries, compare prices, and save money.
 
