@@ -57,11 +57,4 @@ SuperPrice is an innovative web application that empowers users to effortlessly 
    - Back-end: `cd backend && npm start`
 6. Open the application in your browser: `http://localhost:3000`
 
-## 📧 Contact
-
-For any inquiries or feedback, please reach out to the project team:
-
-- Nathan Nguyen (s3948938): nathan.nguyen@example.com
-- Jonathan Theofilas (s3942976): jonathan.theofilas@example.com
-
 Happy grocery shopping with SuperPrice! 🛒✨
