@@ -1,53 +1,67 @@
-# SuperPrice
+SuperPrice is an innovative web application that empowers users to effortlessly find groceries, compare prices across different supermarkets, and save money on their grocery shopping. With its user-friendly interface and powerful features, SuperPrice revolutionizes the way people shop for groceries online.
 
-An application that helps users find groceries, compare prices, and save money.
+## 🌟 Key Features
 
-## Group-P3-01
+- 🔍 **Search by Product Name**: Easily search for specific grocery items by their name and quickly find the products you need.
+- 💰 **Price Comparison**: Compare prices of groceries across multiple supermarkets to ensure you get the best deals and save money.
+- 🏪 **Filter by Supermarkets**: Narrow down your search results by selecting specific supermarkets of your choice.
+- 📊 **Sort by Price**: Sort the search results by price, allowing you to view the most affordable options first.
+- 💲 **Price Range**: Set a desired price range to find groceries that fit within your budget.
 
-Members (3 members have dropped out. Only notified as of 16 September.)
-- Nathan Nguyen (s3948938)
-- Jonathan Theofilas (s3942976)
+## 🛠️ Technologies Used
 
-## Project Links
-- GitHub Repository: [SuperPrice GitHub](https://github.com/cosc2299-sept-2023/team-project-group-p03-01)
-- GitHub Project Board: [SuperPrice Project Board](https://github.com/orgs/cosc2299-sept-2023/projects/240)
-- Video: https://rmiteduau-my.sharepoint.com/:v:/g/personal/s3948938_student_rmit_edu_au/EUVcmPTYsG5JnAHKzOXJQlgBvutIr9LwAE49ToT-w5emqQ?e=bHSb7X
-  
+- 🌐 **Front-end**: HTML, CSS, JavaScript, React.js
+- 🖥️ **Back-end**: Node.js, Express.js
+- 🗄️ **Database**: MongoDB
+- 🐳 **Containerization**: Docker
+- 🧪 **Testing**: Jest, Enzyme
+- 🚀 **Deployment**: AWS, Nginx
 
-## Contribution Statement
-### Nathan Nguyen (s3948938) - 70%
-- Write user stories as required by PO for all main features.
-- Prepare the product backlog, including estimation and prioritization based on meetings with the client/product owner.
-- Write test cases and Definition of Done (DOD) for each Product Backlog Item (PBI).
-- Write Sprint Planning notes for the first sprint (starting at week 6).
-- Breakdown user stories into tasks for the first sprint and assign effort numbers.
-- Prepare the Sprint 1 backlog (tasks).
-- Write Sprint Retro notes for Sprint 0.
-- Setup and start using the scrum board and add all product backlog user stories on the board.
-- Setup Github for use for the rest of the project using a base-code.
-- Run the application on every group member's machine.
-- Write Acceptance Criteria for all Sprint 1 user stories.
-- Write any further required user stories.
-- Update the product backlog and prioritize it based on meetings with the client/product owner.
-- Write all test cases.
-- Continue performing Scrum meetings and documenting them, including Planning, Review, and Retro meetings.
-- Write Sprint Planning notes.
-- Continue using Github for the rest of the project.
-- Implement planned functions.
-- Write unit tests for main functions.
-- Responsible for front-end and back-end of the website.
-- Completed all documents (SRS, User Stories, Features, Testing Docs).
-- Completed Sort by Price feature: [Link](https://github.com/cosc2299-sept-2023/team-project-group-p03-01/issues/5)
-- Completed Price Range feature: [Link](https://github.com/cosc2299-sept-2023/team-project-group-p03-01/issues/4)
-- Completed Search by Product Name Feature: [Link](https://github.com/cosc2299-sept-2023/team-project-group-p03-01/issues/2)
-- Completed Filter by Supermarkets Feature: [Link](https://github.com/cosc2299-sept-2023/team-project-group-p03-01/issues/1)
+## 🤝 Contribution
 
-### Jonathan Theofilas (s3942976) - 30%
-- Assisted with user stories
-- Assiste with features to develop for Project
-- Completed Project Report
-- Completed Docker file for frontend of project
-- Completed Docker file for backend of project
-- Completed docker-compose.yml file
-- Completed css styling for website
+### Nathan Nguyen (s3948938)
 
+- Implemented core features: Search by Product Name, Price Comparison, Filter by Supermarkets, Sort by Price, Price Range
+- Developed front-end and back-end components using React.js, Node.js, and Express.js
+- Designed and implemented the database schema using MongoDB
+- Wrote unit tests using Jest and Enzyme
+- Created documentation: SRS, User Stories, Features, Testing Docs
+
+### Jonathan Theofilas (s3942976)
+
+- Assisted with user stories and feature development
+- Implemented CSS styling for the website
+- Created Docker files for front-end and back-end
+- Configured docker-compose.yml for seamless deployment
+
+## 📂 Repository Structure
+
+- `frontend/`: Contains the React.js front-end code
+- `backend/`: Contains the Node.js and Express.js back-end code
+- `docker/`: Contains Docker files for containerization
+- `docs/`: Contains project documentation (SRS, User Stories, Features, Testing Docs)
+- `tests/`: Contains unit tests for front-end and back-end components
+
+## 🚀 Getting Started
+
+1. Clone the repository: `git clone https://github.com/your-repo/SuperPrice.git`
+2. Navigate to the project directory: `cd SuperPrice`
+3. Install dependencies:
+   - Front-end: `cd frontend && npm install`
+   - Back-end: `cd backend && npm install`
+4. Set up the database:
+   - Install MongoDB
+   - Create a `.env` file in the `backend` directory with the MongoDB connection URL
+5. Start the development server:
+   - Front-end: `cd frontend && npm start`
+   - Back-end: `cd backend && npm start`
+6. Open the application in your browser: `http://localhost:3000`
+
+## 📧 Contact
+
+For any inquiries or feedback, please reach out to the project team:
+
+- Nathan Nguyen (s3948938): nathan.nguyen@example.com
+- Jonathan Theofilas (s3942976): jonathan.theofilas@example.com
+
+Happy grocery shopping with SuperPrice! 🛒✨
